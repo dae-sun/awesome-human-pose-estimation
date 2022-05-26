@@ -7,3 +7,6 @@
 ### Multi-Person 3D Mesh Recovery
 ##### • Monocular, One-stage, Regression of Multiple 3D People - [[code]](https://github.com/Arthur151/ROMP) [[paper]](https://arxiv.org/pdf/2008.12272.pdf)
 *Yu Sun, Qian Bao, Wu Liu, Yili Fu, Michael J. Black, Tao Mei*
+
+##### • Putting People in their Place: Monocular Regression of 3D People in Depth - [[code]](https://github.com/Arthur151/ROMP) [[paper]](https://arxiv.org/pdf/2112.08274.pdf)
+*Yu Sun, Wu Liu, Qian Bao, Yili Fu, Tao Mei, Michael J. Black*
