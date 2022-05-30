@@ -10,3 +10,7 @@
 
 ##### • Putting People in their Place: Monocular Regression of 3D People in Depth - [[code]](https://github.com/Arthur151/ROMP) [[paper]](https://arxiv.org/pdf/2112.08274.pdf)
 *Yu Sun, Wu Liu, Qian Bao, Yili Fu, Tao Mei, Michael J. Black*
+
+##### • GLAMR: Global Occlusion-Aware Human Mesh Recovery with Dynamic Cameras - [[code]](https://github.com/NVlabs/GLAMR) [[paper]](https://arxiv.org/pdf/2112.01524.pdf)
+*Ye Yuan, Umar Iqbal, Pavlo Molchanov, Kris Kitani, Jan Kautz*
+
