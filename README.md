@@ -8,7 +8,7 @@
 ##### • Monocular, One-stage, Regression of Multiple 3D People - [[code]](https://github.com/Arthur151/ROMP) [[paper]](https://arxiv.org/pdf/2008.12272.pdf)
 *Yu Sun, Qian Bao, Wu Liu, Yili Fu, Michael J. Black, Tao Mei*
 
-##### • Putting People in their Place: Monocular Regression of 3D People in Depth - [[code]](https://github.com/Arthur151/ROMP) [[paper]](https://arxiv.org/pdf/2112.08274.pdf)
+##### • Putting People in their Place: Monocular Regression of 3D People in Depth - [[code]](https://github.com/Arthur151/ROMP) [[paper]](https://arxiv.org/pdf/2112.08274.pdf) [[preview]](Putting_People_in_their_Place_Monocular_Regression_of_3D_People_in_Depth.pdf)
 *Yu Sun, Wu Liu, Qian Bao, Yili Fu, Tao Mei, Michael J. Black*
 
 ##### • GLAMR: Global Occlusion-Aware Human Mesh Recovery with Dynamic Cameras - [[code]](https://github.com/NVlabs/GLAMR) [[paper]](https://arxiv.org/pdf/2112.01524.pdf)
