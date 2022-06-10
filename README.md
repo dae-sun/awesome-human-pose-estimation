@@ -42,3 +42,8 @@
 
 ##### • Robust Pose Estimation in Crowded Scenes with Direct Pose-Level Inference - [[code]](https://github.com/kennethwdk/pinet) [[paper]](https://papers.nips.cc/paper/2021/file/31857b449c407203749ae32dd0e7d64a-Paper.pdf) - NeurIPS 21, PINet
 *Dongkai Wang, Shiliang Zhang, Gang Hua*
+
+#### Experiments on COCO test-dev
+ - borrow KAPAO
+
+![ex_screenshot](./table.png)
