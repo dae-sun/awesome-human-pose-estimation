@@ -33,3 +33,12 @@
 
 ##### • Human Pose Regression with Residual Log-likelihood Estimation - [[code]](https://github.com/Jeff-sjtu/res-loglikelihood-regression) [[paper]](https://arxiv.org/pdf/2107.11291.pdf) - ICCV 21, RLE 
 *Jiefeng Li, Siyuan Bian, Ailing Zeng, Can Wang, Bo Pang, Wentao Liu, Cewu Lu*
+
+##### • HigherHRNet: Scale-Aware Representation Learning for Bottom-Up Human Pose Estimation - [[code]](https://github.com/HRNet/HigherHRNet-Human-Pose-Estimation) [[paper]](https://arxiv.org/pdf/1908.10357.pdf) - CVPR 20, HigherHRNet
+*Bowen Cheng, Bin Xiao, Jingdong Wang, Honghui Shi, Thomas S. Huang, Lei Zhang*
+
+##### • Multi-Instance Pose Networks: Rethinking Top-Down Pose Estimation - [[code]](https://github.com/rawalkhirodkar/MIPNet) [[paper]](https://arxiv.org/pdf/2101.11223.pdf) - ICCV 21, MIPNet
+*Rawal Khirodkar, Visesh Chari, Amit Agrawal, Ambrish Tyagi*
+
+##### • Robust Pose Estimation in Crowded Scenes with Direct Pose-Level Inference - [[code]](https://github.com/kennethwdk/pinet) [[paper]](https://papers.nips.cc/paper/2021/file/31857b449c407203749ae32dd0e7d64a-Paper.pdf) - NeurIPS 21, PINet
+*Dongkai Wang, Shiliang Zhang, Gang Hua*
