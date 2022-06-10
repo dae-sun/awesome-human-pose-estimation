@@ -15,6 +15,9 @@
 ##### • GLAMR: Global Occlusion-Aware Human Mesh Recovery with Dynamic Cameras - [[code]](https://github.com/NVlabs/GLAMR) [[paper]](https://arxiv.org/pdf/2112.01524.pdf)
 *Ye Yuan, Umar Iqbal, Pavlo Molchanov, Kris Kitani, Jan Kautz*
 
+***
+
+
 ### Multi-Person 2D Pose Estimation
 ##### • Rethinking Keypoint Representations: Modeling Keypoints and Poses as Objects for Multi-Person Human Pose Estimation - [[code]](https://github.com/wmcnally/kapao) [[paper]](https://arxiv.org/pdf/2111.08557.pdf) - Arxiv 21.11, KAPAO
 *William McNally, Kanav Vats, Alexander Wong, John McPhee*
@@ -27,8 +30,6 @@
 
 ##### • OpenPifPaf: Composite Fields for Semantic Keypoint Detection and Spatio-Temporal Association - [[code]](https://github.com/openpifpaf/openpifpaf) [[paper]](https://arxiv.org/pdf/2103.02440.pdf) - Arxiv 21.03, OpenPifPaf 
 *Sven Kreiss, Lorenzo Bertoni, Alexandre Alahi*
-
-
 
 ##### • Human Pose Regression with Residual Log-likelihood Estimation - [[code]](https://github.com/Jeff-sjtu/res-loglikelihood-regression) [[paper]](https://arxiv.org/pdf/2107.11291.pdf) - ICCV 21, RLE 
 *Jiefeng Li, Siyuan Bian, Ailing Zeng, Can Wang, Bo Pang, Wentao Liu, Cewu Lu*
