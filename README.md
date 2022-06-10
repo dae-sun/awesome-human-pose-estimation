@@ -46,6 +46,11 @@
 ##### • Distribution-Aware Coordinate Representation for Human Pose Estimation - [[code]](https://github.com/ilovepose/DarkPose) [[paper]](https://arxiv.org/pdf/1910.06278.pdf) - CVPR 20, DARK
 *Feng Zhang, Xiatian Zhu, Hanbin Dai, Mao Ye, Ce Zhu*
 
+##### • Distribution-Aware Single-Stage Models for Multi-Person 3D Pose Estimation - [[paper]](https://arxiv.org/pdf/2203.07697.pdf) - CVPR 22, DAS
+*Zitian Wang, Xuecheng Nie, Xiaochao Qu, Yunpeng Chen, Si Liu*
+
+
+
 
 #### Experiments on COCO test-dev
  - borrow KAPAO
