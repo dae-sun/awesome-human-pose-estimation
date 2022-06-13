@@ -68,8 +68,12 @@
 
 ##### • Location-Free Human Pose Estimation - [[paper]](https://arxiv.org/pdf/2205.12619.pdf) - CVPR 22
 *Xixia Xu, Yingguo Gao, Ke Yan, Xue Lin, Qi Zou*
+Contextual Instance Decoupling for Robust Multi-Person Pose Estimation
 
-
+'''
+##### • Contextual Instance Decoupling for Robust Multi-Person Pose Estimation - [[code]](https://github.com/kennethwdk/CID) [[paper]](https://openaccess.thecvf.com/content/CVPR2022/papers/Wang_Contextual_Instance_Decoupling_for_Robust_Multi-Person_Pose_Estimation_CVPR_2022_paper.pdf) - CVPR 22, CID
+*Dongkai Wang, Shiliang Zhang*
+'''
 ***
 
 ## Experiments
