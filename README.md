@@ -49,6 +49,10 @@
 ##### • Distribution-Aware Single-Stage Models for Multi-Person 3D Pose Estimation - [[paper]](https://arxiv.org/pdf/2203.07697.pdf) - CVPR 22, DAS
 *Zitian Wang, Xuecheng Nie, Xiaochao Qu, Yunpeng Chen, Si Liu*
 
+##### • Learning Local-Global Contextual Adaptation for Multi-Person Pose Estimation - [[code]](https://github.com/cherubicXN/logocap) [[paper]](https://arxiv.org/pdf/2109.03622.pdf) - CVPR 22, LOGO-CAP
+*Nan Xue, Tianfu Wu, Gui-Song Xia, Liangpei Zhang*
+
+
 
 
 
