@@ -72,7 +72,6 @@
 
 ##### • Location-Free Human Pose Estimation - [[paper]](https://arxiv.org/pdf/2205.12619.pdf) - CVPR 22
 *Xixia Xu, Yingguo Gao, Ke Yan, Xue Lin, Qi Zou*
-Contextual Instance Decoupling for Robust Multi-Person Pose Estimation
 
 ***
 
