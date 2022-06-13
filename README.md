@@ -66,14 +66,14 @@
 ##### • Lite Pose: Efficient Architecture Design for 2D Human Pose Estimation - [[code]](https://github.com/mit-han-lab/litepose) [[paper]](https://arxiv.org/pdf/2205.01271.pdf) - CVPR 22, Lite Pose
 *Yihan Wang, Muyang Li, Han Cai, Wei-Ming Chen, Song Han*
 
+##### • Contextual Instance Decoupling for Robust Multi-Person Pose Estimation - [[code]](https://github.com/kennethwdk/CID) [[paper]](https://openaccess.thecvf.com/content/CVPR2022/papers/Wang_Contextual_Instance_Decoupling_for_Robust_Multi-Person_Pose_Estimation_CVPR_2022_paper.pdf) - CVPR 22, CID
+*Dongkai Wang, Shiliang Zhang*
+
+
 ##### • Location-Free Human Pose Estimation - [[paper]](https://arxiv.org/pdf/2205.12619.pdf) - CVPR 22
 *Xixia Xu, Yingguo Gao, Ke Yan, Xue Lin, Qi Zou*
 Contextual Instance Decoupling for Robust Multi-Person Pose Estimation
 
-'''
-##### • Contextual Instance Decoupling for Robust Multi-Person Pose Estimation - [[code]](https://github.com/kennethwdk/CID) [[paper]](https://openaccess.thecvf.com/content/CVPR2022/papers/Wang_Contextual_Instance_Decoupling_for_Robust_Multi-Person_Pose_Estimation_CVPR_2022_paper.pdf) - CVPR 22, CID
-*Dongkai Wang, Shiliang Zhang*
-'''
 ***
 
 ## Experiments
