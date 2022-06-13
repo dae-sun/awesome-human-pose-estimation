@@ -60,6 +60,11 @@
 ##### • Learning Local-Global Contextual Adaptation for Multi-Person Pose Estimation - [[code]](https://github.com/cherubicXN/logocap) [[paper]](https://arxiv.org/pdf/2109.03622.pdf) - CVPR 22, LOGO-CAP
 *Nan Xue, Tianfu Wu, Gui-Song Xia, Liangpei Zhang*
 
+##### • End-to-End Multi-Person Pose Estimation with Transformers - [[code]](https://github.com/hikvision-research/opera) [[paper]](https://openaccess.thecvf.com/content/CVPR2022/papers/Shi_End-to-End_Multi-Person_Pose_Estimation_With_Transformers_CVPR_2022_paper.pdf) - CVPR 22, PETR
+*Dahu Shi1, Xing Wei2, Liangqi Li, Ye Ren, Wenming Tan*
+
+
+
 ***
 
 ## Experiments
