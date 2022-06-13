@@ -4,6 +4,7 @@
 ## Table of Contents
 - [Multi-Person 3D Mesh Recovery](#multi-person-3d-mesh-recovery)
 - [Multi-Person 2D Pose Estimation](#multi-person-2d-pose-estimation)
+- [Multi-Person 3D Pose Estimation](#multi-person-3d-pose-estimation)
 
 ## Multi-Person 3D Mesh Recovery
 ### 2021
@@ -72,6 +73,11 @@
 
 ##### • Location-Free Human Pose Estimation - [[paper]](https://arxiv.org/pdf/2205.12619.pdf) - CVPR 22
 *Xixia Xu, Yingguo Gao, Ke Yan, Xue Lin, Qi Zou*
+
+## Multi-Person 3D Pose Estimation
+### 2022
+##### • Single-Stage is Enough: Multi-Person Absolute 3D Pose Estimation - [[paper]](https://openaccess.thecvf.com/content/CVPR2022/papers/Jin_Single-Stage_Is_Enough_Multi-Person_Absolute_3D_Pose_Estimation_CVPR_2022_paper.pdf) - CVPR 22, DRM
+*Lei Jin, Chenyang Xu, Xiaojuan Wang1, Yabo Xiao, Yandong Guo, Xuecheng Nie, Jian Zhao*
 
 ***
 
