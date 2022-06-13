@@ -73,6 +73,7 @@
 
 ##### • Location-Free Human Pose Estimation - [[paper]](https://arxiv.org/pdf/2205.12619.pdf) - CVPR 22
 *Xixia Xu, Yingguo Gao, Ke Yan, Xue Lin, Qi Zou*
+***
 
 ## Multi-Person 3D Pose Estimation
 ### 2022
