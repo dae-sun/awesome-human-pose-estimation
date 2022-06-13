@@ -60,9 +60,7 @@
 ##### • Learning Local-Global Contextual Adaptation for Multi-Person Pose Estimation - [[code]](https://github.com/cherubicXN/logocap) [[paper]](https://arxiv.org/pdf/2109.03622.pdf) - CVPR 22, LOGO-CAP
 *Nan Xue, Tianfu Wu, Gui-Song Xia, Liangpei Zhang*
 
-
-
-
+***
 
 ## Experiments
 ### COCO test-dev
