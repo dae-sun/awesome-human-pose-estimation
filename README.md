@@ -63,6 +63,10 @@
 ##### • End-to-End Multi-Person Pose Estimation with Transformers - [[code]](https://github.com/hikvision-research/opera) [[paper]](https://openaccess.thecvf.com/content/CVPR2022/papers/Shi_End-to-End_Multi-Person_Pose_Estimation_With_Transformers_CVPR_2022_paper.pdf) - CVPR 22, PETR
 *Dahu Shi1, Xing Wei2, Liangqi Li, Ye Ren, Wenming Tan*
 
+##### • Lite Pose: Efficient Architecture Design for 2D Human Pose Estimation - [[code]](https://github.com/mit-han-lab/litepose) [[paper]](https://arxiv.org/pdf/2205.01271.pdf) - CVPR 22, Lite Pose
+*Yihan Wang, Muyang Li, Han Cai, Wei-Ming Chen, Song Han*
+
+
 
 
 ***
