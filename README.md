@@ -5,6 +5,7 @@
 - [Multi-Person 3D Mesh Recovery](#multi-person-3d-mesh-recovery)
 - [Multi-Person 2D Pose Estimation](#multi-person-2d-pose-estimation)
 - [Multi-Person 3D Pose Estimation](#multi-person-3d-pose-estimation)
+- [Single-Person 2D Pose Estimation](#multi-person-3d-pose-estimation)
 
 ## Multi-Person 3D Mesh Recovery
 ### 2021
