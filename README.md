@@ -84,7 +84,7 @@
 ***
 ## Backbone
 ### 2022
-##### • ViTPose: Simple Vision Transformer Baselines for Human Pose Estimation - [[code]](https://github.com/vitae-transformer/vitpose) [[paper]](https://arxiv.org/pdf/2204.12484.pdf) - NeurIPS 21, HRFormer
+##### • ViTPose: Simple Vision Transformer Baselines for Human Pose Estimation - [[code]](https://github.com/vitae-transformer/vitpose) [[paper]](https://arxiv.org/pdf/2204.12484.pdf) - Arxiv 22, ViTPose
 *Yufei Xu, Jing Zhang, Qiming Zhang, Dacheng Tao*
 
 
