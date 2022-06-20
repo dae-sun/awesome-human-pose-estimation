@@ -5,7 +5,7 @@
 - [Multi-Person 3D Mesh Recovery](#multi-person-3d-mesh-recovery)
 - [Multi-Person 2D Pose Estimation](#multi-person-2d-pose-estimation)
 - [Multi-Person 3D Pose Estimation](#multi-person-3d-pose-estimation)
-- [Single-Person 2D Pose Estimation](#multi-person-3d-pose-estimation)
+- [Backbone](#backbone)
 
 ## Multi-Person 3D Mesh Recovery
 ### 2021
@@ -79,10 +79,20 @@
 ## Multi-Person 3D Pose Estimation
 ### 2022
 ##### • Single-Stage is Enough: Multi-Person Absolute 3D Pose Estimation - [[paper]](https://openaccess.thecvf.com/content/CVPR2022/papers/Jin_Single-Stage_Is_Enough_Multi-Person_Absolute_3D_Pose_Estimation_CVPR_2022_paper.pdf) - CVPR 22, DRM
-*Lei Jin, Chenyang Xu, Xiaojuan Wang1, Yabo Xiao, Yandong Guo, Xuecheng Nie, Jian Zhao*
+*Lei Jin, Chenyang Xu, Xiaojuan Wang, Yabo Xiao, Yandong Guo, Xuecheng Nie, Jian Zhao*
 
 ***
+## Backbone
+### 2022
+##### • ViTPose: Simple Vision Transformer Baselines for Human Pose Estimation - [[code]](https://github.com/vitae-transformer/vitpose) [[paper]](https://arxiv.org/pdf/2204.12484.pdf) - NeurIPS 21, HRFormer
+*Yufei Xu, Jing Zhang, Qiming Zhang, Dacheng Tao*
 
+
+### 2021
+##### • HRFormer: High-Resolution Transformer for Dense Prediction - [[code]](https://github.com/HRNet/HRFormer) [[paper]](https://arxiv.org/pdf/2110.09408.pdf) - NeurIPS 21, HRFormer
+*Yuhui Yuan, Rao Fu, Lang Huang, Weihong Lin, Chao Zhang, Xilin Chen, Jingdong Wang*
+
+***
 ## Experiments
 ### COCO test-dev
  - borrow KAPAO
