@@ -8,10 +8,6 @@
 - [Backbone](#backbone)
 
 ## Multi-Person 3D Mesh Recovery
-### 2021
-##### • Monocular, One-stage, Regression of Multiple 3D People - [[code]](https://github.com/Arthur151/ROMP) [[paper]](https://arxiv.org/pdf/2008.12272.pdf) - ICCV 21, ROMP
-*Yu Sun, Qian Bao, Wu Liu, Yili Fu, Michael J. Black, Tao Mei*
-
 ### 2022
 ##### • Putting People in their Place: Monocular Regression of 3D People in Depth - [[code]](https://github.com/Arthur151/ROMP) [[paper]](https://arxiv.org/pdf/2112.08274.pdf) [[preview]](papers/Putting_People_in_their_Place_Monocular_Regression_of_3D_People_in_Depth.pdf) - CVPR 22, BEV
 *Yu Sun, Wu Liu, Qian Bao, Yili Fu, Tao Mei, Michael J. Black*
@@ -19,20 +15,35 @@
 ##### • GLAMR: Global Occlusion-Aware Human Mesh Recovery with Dynamic Cameras - [[code]](https://github.com/NVlabs/GLAMR) [[paper]](https://arxiv.org/pdf/2112.01524.pdf) - CVPR 22, GLAMR
 *Ye Yuan, Umar Iqbal, Pavlo Molchanov, Kris Kitani, Jan Kautz*
 
+### 2021
+##### • Monocular, One-stage, Regression of Multiple 3D People - [[code]](https://github.com/Arthur151/ROMP) [[paper]](https://arxiv.org/pdf/2008.12272.pdf) - ICCV 21, ROMP
+*Yu Sun, Qian Bao, Wu Liu, Yili Fu, Michael J. Black, Tao Mei*
+
+
+
 ***
 
 
 ## Multi-Person 2D Pose Estimation
-### 2019
-##### • PifPaf: Composite Fields for Human Pose Estimation - [[code]](https://github.com/openpifpaf/openpifpaf) [[paper]](https://arxiv.org/pdf/2104.02300.pdf) - CVPR 19, PifPaf 
-*Sven Kreiss, Lorenzo Bertoni, Alexandre Alahi*
 
-### 2020
-##### • HigherHRNet: Scale-Aware Representation Learning for Bottom-Up Human Pose Estimation - [[code]](https://github.com/HRNet/HigherHRNet-Human-Pose-Estimation) [[paper]](https://arxiv.org/pdf/1908.10357.pdf) - CVPR 20, HigherHRNet
-*Bowen Cheng, Bin Xiao, Jingdong Wang, Honghui Shi, Thomas S. Huang, Lei Zhang*
+### 2022
+##### • Distribution-Aware Single-Stage Models for Multi-Person 3D Pose Estimation - [[paper]](https://arxiv.org/pdf/2203.07697.pdf) - CVPR 22, DAS
+*Zitian Wang, Xuecheng Nie, Xiaochao Qu, Yunpeng Chen, Si Liu*
 
-##### • Distribution-Aware Coordinate Representation for Human Pose Estimation - [[code]](https://github.com/ilovepose/DarkPose) [[paper]](https://arxiv.org/pdf/1910.06278.pdf) - CVPR 20, DARK
-*Feng Zhang, Xiatian Zhu, Hanbin Dai, Mao Ye, Ce Zhu*
+##### • Learning Local-Global Contextual Adaptation for Multi-Person Pose Estimation - [[code]](https://github.com/cherubicXN/logocap) [[paper]](https://arxiv.org/pdf/2109.03622.pdf) - CVPR 22, LOGO-CAP
+*Nan Xue, Tianfu Wu, Gui-Song Xia, Liangpei Zhang*
+
+##### • End-to-End Multi-Person Pose Estimation with Transformers - [[code]](https://github.com/hikvision-research/opera) [[paper]](https://openaccess.thecvf.com/content/CVPR2022/papers/Shi_End-to-End_Multi-Person_Pose_Estimation_With_Transformers_CVPR_2022_paper.pdf) - CVPR 22, PETR
+*Dahu Shi1, Xing Wei2, Liangqi Li, Ye Ren, Wenming Tan*
+
+##### • Lite Pose: Efficient Architecture Design for 2D Human Pose Estimation - [[code]](https://github.com/mit-han-lab/litepose) [[paper]](https://arxiv.org/pdf/2205.01271.pdf) - CVPR 22, Lite Pose
+*Yihan Wang, Muyang Li, Han Cai, Wei-Ming Chen, Song Han*
+
+##### • Contextual Instance Decoupling for Robust Multi-Person Pose Estimation - [[code]](https://github.com/kennethwdk/CID) [[paper]](https://openaccess.thecvf.com/content/CVPR2022/papers/Wang_Contextual_Instance_Decoupling_for_Robust_Multi-Person_Pose_Estimation_CVPR_2022_paper.pdf) - CVPR 22, CID
+*Dongkai Wang, Shiliang Zhang*
+
+##### • Location-Free Human Pose Estimation - [[paper]](https://arxiv.org/pdf/2205.12619.pdf) - CVPR 22
+*Xixia Xu, Yingguo Gao, Ke Yan, Xue Lin, Qi Zou*
 
 ### 2021
 
@@ -54,26 +65,17 @@
 ##### • Robust Pose Estimation in Crowded Scenes with Direct Pose-Level Inference - [[code]](https://github.com/kennethwdk/pinet) [[paper]](https://papers.nips.cc/paper/2021/file/31857b449c407203749ae32dd0e7d64a-Paper.pdf) - NeurIPS 21, PINet
 *Dongkai Wang, Shiliang Zhang, Gang Hua*
 
+### 2020
+##### • HigherHRNet: Scale-Aware Representation Learning for Bottom-Up Human Pose Estimation - [[code]](https://github.com/HRNet/HigherHRNet-Human-Pose-Estimation) [[paper]](https://arxiv.org/pdf/1908.10357.pdf) - CVPR 20, HigherHRNet
+*Bowen Cheng, Bin Xiao, Jingdong Wang, Honghui Shi, Thomas S. Huang, Lei Zhang*
 
-### 2022
-##### • Distribution-Aware Single-Stage Models for Multi-Person 3D Pose Estimation - [[paper]](https://arxiv.org/pdf/2203.07697.pdf) - CVPR 22, DAS
-*Zitian Wang, Xuecheng Nie, Xiaochao Qu, Yunpeng Chen, Si Liu*
+##### • Distribution-Aware Coordinate Representation for Human Pose Estimation - [[code]](https://github.com/ilovepose/DarkPose) [[paper]](https://arxiv.org/pdf/1910.06278.pdf) - CVPR 20, DARK
+*Feng Zhang, Xiatian Zhu, Hanbin Dai, Mao Ye, Ce Zhu*
 
-##### • Learning Local-Global Contextual Adaptation for Multi-Person Pose Estimation - [[code]](https://github.com/cherubicXN/logocap) [[paper]](https://arxiv.org/pdf/2109.03622.pdf) - CVPR 22, LOGO-CAP
-*Nan Xue, Tianfu Wu, Gui-Song Xia, Liangpei Zhang*
+### 2019
+##### • PifPaf: Composite Fields for Human Pose Estimation - [[code]](https://github.com/openpifpaf/openpifpaf) [[paper]](https://arxiv.org/pdf/2104.02300.pdf) - CVPR 19, PifPaf 
+*Sven Kreiss, Lorenzo Bertoni, Alexandre Alahi*
 
-##### • End-to-End Multi-Person Pose Estimation with Transformers - [[code]](https://github.com/hikvision-research/opera) [[paper]](https://openaccess.thecvf.com/content/CVPR2022/papers/Shi_End-to-End_Multi-Person_Pose_Estimation_With_Transformers_CVPR_2022_paper.pdf) - CVPR 22, PETR
-*Dahu Shi1, Xing Wei2, Liangqi Li, Ye Ren, Wenming Tan*
-
-##### • Lite Pose: Efficient Architecture Design for 2D Human Pose Estimation - [[code]](https://github.com/mit-han-lab/litepose) [[paper]](https://arxiv.org/pdf/2205.01271.pdf) - CVPR 22, Lite Pose
-*Yihan Wang, Muyang Li, Han Cai, Wei-Ming Chen, Song Han*
-
-##### • Contextual Instance Decoupling for Robust Multi-Person Pose Estimation - [[code]](https://github.com/kennethwdk/CID) [[paper]](https://openaccess.thecvf.com/content/CVPR2022/papers/Wang_Contextual_Instance_Decoupling_for_Robust_Multi-Person_Pose_Estimation_CVPR_2022_paper.pdf) - CVPR 22, CID
-*Dongkai Wang, Shiliang Zhang*
-
-
-##### • Location-Free Human Pose Estimation - [[paper]](https://arxiv.org/pdf/2205.12619.pdf) - CVPR 22
-*Xixia Xu, Yingguo Gao, Ke Yan, Xue Lin, Qi Zou*
 ***
 
 ## Multi-Person 3D Pose Estimation
