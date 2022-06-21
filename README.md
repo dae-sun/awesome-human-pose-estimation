@@ -3,6 +3,7 @@
 
 ## Table of Contents
 - [Multi-Person 3D Mesh Recovery](#multi-person-3d-mesh-recovery)
+- [Single-Person 3D Mesh Recovery](#single-person-3d-mesh-recovery)
 - [Multi-Person 2D Pose Estimation](#multi-person-2d-pose-estimation)
 - [Multi-Person 3D Pose Estimation](#multi-person-3d-pose-estimation)
 - [Backbone](#backbone)
@@ -19,9 +20,17 @@
 ##### • Monocular, One-stage, Regression of Multiple 3D People - [[code]](https://github.com/Arthur151/ROMP) [[paper]](https://arxiv.org/pdf/2008.12272.pdf) - ICCV 21, ROMP
 *Yu Sun, Qian Bao, Wu Liu, Yili Fu, Michael J. Black, Tao Mei*
 
-
-
 ***
+## Single-Person 3D Mesh Recovery
+### 2021
+##### • HybrIK: A Hybrid Analytical-Neural Inverse Kinematics Solution for 3D Human Pose and Shape Estimation - [[code]](https://github.com/Jeff-sjtu/HybrIK) [[paper]](https://arxiv.org/pdf/2011.14672.pdf) - CVPR 21, HybrIK
+*Jiefeng Li, Chao Xu, Zhicun Chen, Siyuan Bian, Lixin Yang, Cewu Lu*
+
+##### • Mesh Graphormer- [[code]](https://github.com/microsoft/MeshGraphormer) [[paper]](https://arxiv.org/pdf/2104.00272.pdf) - ICCV 21, Mesh Graphormer
+*Kevin Lin, Lijuan Wang, Zicheng Liu*
+
+##### • End-to-End Human Pose and Mesh Reconstruction with Transformers - [[code]](https://github.com/microsoft/MeshTransformer) [[paper]](https://arxiv.org/pdf/2012.09760.pdf) - CVPR 21, METRO
+*Kevin Lin, Lijuan Wang, Zicheng Liu*
 
 
 ## Multi-Person 2D Pose Estimation
