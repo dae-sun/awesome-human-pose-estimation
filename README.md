@@ -2,19 +2,32 @@
 
 
 ## Table of Contents
+- [3D Mesh Recovery from video](#3d-mesh-recovery-from-video)
 - [Multi-Person 3D Mesh Recovery](#multi-person-3d-mesh-recovery)
 - [Single-Person 3D Mesh Recovery](#single-person-3d-mesh-recovery)
 - [Multi-Person 2D Pose Estimation](#multi-person-2d-pose-estimation)
 - [Multi-Person 3D Pose Estimation](#multi-person-3d-pose-estimation)
 - [Backbone](#backbone)
 
+## 3D Mesh Recovery from video
+### 2022
+##### • GLAMR: Global Occlusion-Aware Human Mesh Recovery with Dynamic Cameras - [[code]](https://github.com/NVlabs/GLAMR) [[paper]](https://arxiv.org/pdf/2112.01524.pdf) - CVPR 22, GLAMR
+*Ye Yuan, Umar Iqbal, Pavlo Molchanov, Kris Kitani, Jan Kautz*
+
+### 2021
+##### • Beyond Static Features for Temporally Consistent 3D Human Pose and Shape from a Video - [[code]](https://github.com/hongsukchoi/TCMR_RELEASE) [[paper]](https://arxiv.org/pdf/2011.08627.pdf) - CVPR 21, TCMR
+*Hongsuk Choi, Gyeongsik Moon, Ju Yong Chang, Kyoung Mu Lee*
+
+### 2020
+##### • VIBE: Video Inference for Human Body Pose and Shape Estimation - [[code]](https://github.com/mkocabas/VIBE) [[paper]](https://arxiv.org/pdf/1912.05656.pdf) - CVPR 20, VIBE
+*Muhammed Kocabas, Nikos Athanasiou, Michael J. Black*
+
+***
+
 ## Multi-Person 3D Mesh Recovery
 ### 2022
 ##### • Putting People in their Place: Monocular Regression of 3D People in Depth - [[code]](https://github.com/Arthur151/ROMP) [[paper]](https://arxiv.org/pdf/2112.08274.pdf) [[preview]](papers/Putting_People_in_their_Place_Monocular_Regression_of_3D_People_in_Depth.pdf) - CVPR 22, BEV
 *Yu Sun, Wu Liu, Qian Bao, Yili Fu, Tao Mei, Michael J. Black*
-
-##### • GLAMR: Global Occlusion-Aware Human Mesh Recovery with Dynamic Cameras - [[code]](https://github.com/NVlabs/GLAMR) [[paper]](https://arxiv.org/pdf/2112.01524.pdf) - CVPR 22, GLAMR
-*Ye Yuan, Umar Iqbal, Pavlo Molchanov, Kris Kitani, Jan Kautz*
 
 ### 2021
 ##### • Monocular, One-stage, Regression of Multiple 3D People - [[code]](https://github.com/Arthur151/ROMP) [[paper]](https://arxiv.org/pdf/2008.12272.pdf) - ICCV 21, ROMP
