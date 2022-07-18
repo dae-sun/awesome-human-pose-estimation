@@ -2,12 +2,19 @@
 
 
 ## Table of Contents
+- [Single-Person 2D Pose Estimation](#single-person-2d-pose-estimation)
 - [3D Mesh Recovery from video](#3d-mesh-recovery-from-video)
 - [Multi-Person 3D Mesh Recovery](#multi-person-3d-mesh-recovery)
 - [Single-Person 3D Mesh Recovery](#single-person-3d-mesh-recovery)
 - [Multi-Person 2D Pose Estimation](#multi-person-2d-pose-estimation)
 - [Multi-Person 3D Pose Estimation](#multi-person-3d-pose-estimation)
 - [Backbone](#backbone)
+
+
+## Single-Person 2D Pose Estimation
+### 2022
+##### • SimCC: a Simple Coordinate Classification Perspective for Human Pose Estimation - [[code]](https://github.com/leeyegy/SimCC) [[paper]](https://arxiv.org/pdf/2107.03332.pdf) - ECCV 22, SimCC
+
 
 ## 3D Mesh Recovery from video
 ### 2022
