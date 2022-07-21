@@ -21,6 +21,9 @@
 ##### • GLAMR: Global Occlusion-Aware Human Mesh Recovery with Dynamic Cameras - [[code]](https://github.com/NVlabs/GLAMR) [[paper]](https://arxiv.org/pdf/2112.01524.pdf) - CVPR 22, GLAMR
 *Ye Yuan, Umar Iqbal, Pavlo Molchanov, Kris Kitani, Jan Kautz*
 
+##### • Capturing Humans in Motion: Temporal-Attentive 3D Human Pose and Shape Estimation from Monocular Video - [[paper]](https://arxiv.org/pdf/2203.08534.pdf) - CVPR 22, MPS-Net
+*Wen-Li Wei, Jen-Chun Lin, Tyng-Luh Liu, Hong-Yuan Mark Liao*
+
 ### 2021
 ##### • Beyond Static Features for Temporally Consistent 3D Human Pose and Shape from a Video - [[code]](https://github.com/hongsukchoi/TCMR_RELEASE) [[paper]](https://arxiv.org/pdf/2011.08627.pdf) - CVPR 21, TCMR
 *Hongsuk Choi, Gyeongsik Moon, Ju Yong Chang, Kyoung Mu Lee*
