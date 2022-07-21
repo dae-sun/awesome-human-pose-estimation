@@ -39,6 +39,9 @@
 ##### • Putting People in their Place: Monocular Regression of 3D People in Depth - [[code]](https://github.com/Arthur151/ROMP) [[paper]](https://arxiv.org/pdf/2112.08274.pdf) [[preview]](papers/Putting_People_in_their_Place_Monocular_Regression_of_3D_People_in_Depth.pdf) - CVPR 22, BEV
 *Yu Sun, Wu Liu, Qian Bao, Yili Fu, Tao Mei, Michael J. Black*
 
+##### • Learning to Estimate Robust 3D Human Mesh from In-the-Wild Crowded Scenes - [[code]](https://github.com/hongsukchoi/3DCrowdNet_RELEASE) [[paper]](https://arxiv.org/pdf/2104.07300.pdf) - CVPR 22, 3DCrowdNet
+*Hongsuk Choi, Gyeongsik Moon, JoonKyu Park, Kyoung Mu Lee*
+
 ### 2021
 ##### • Monocular, One-stage, Regression of Multiple 3D People - [[code]](https://github.com/Arthur151/ROMP) [[paper]](https://arxiv.org/pdf/2008.12272.pdf) - ICCV 21, ROMP
 *Yu Sun, Qian Bao, Wu Liu, Yili Fu, Michael J. Black, Tao Mei*
