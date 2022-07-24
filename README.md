@@ -4,6 +4,7 @@
 ## Table of Contents
 - [Single-Person 2D Pose Estimation](#single-person-2d-pose-estimation)
 - [3D Mesh Recovery from video](#3d-mesh-recovery-from-video)
+- [3D People Tracking](#3d-people-tracking)
 - [Multi-Person 3D Mesh Recovery](#multi-person-3d-mesh-recovery)
 - [Single-Person 3D Mesh Recovery](#single-person-3d-mesh-recovery)
 - [Multi-Person 2D Pose Estimation](#multi-person-2d-pose-estimation)
@@ -15,7 +16,7 @@
 ### 2022
 ##### • SimCC: a Simple Coordinate Classification Perspective for Human Pose Estimation - [[code]](https://github.com/leeyegy/SimCC) [[paper]](https://arxiv.org/pdf/2107.03332.pdf) - ECCV 22, SimCC
 
-
+***
 ## 3D Mesh Recovery from video
 ### 2022
 ##### • GLAMR: Global Occlusion-Aware Human Mesh Recovery with Dynamic Cameras - [[code]](https://github.com/NVlabs/GLAMR) [[paper]](https://arxiv.org/pdf/2112.01524.pdf) - CVPR 22, GLAMR
@@ -31,6 +32,16 @@
 ### 2020
 ##### • VIBE: Video Inference for Human Body Pose and Shape Estimation - [[code]](https://github.com/mkocabas/VIBE) [[paper]](https://arxiv.org/pdf/1912.05656.pdf) - CVPR 20, VIBE
 *Muhammed Kocabas, Nikos Athanasiou, Michael J. Black*
+***
+## 3D People Tracking
+### 2022
+##### • Tracking People by Predicting 3D Appearance, Location & Pose - [[code]](https://github.com/brjathu/PHALP) [[paper]](https://arxiv.org/pdf/2112.04477.pdf) - CVPR 22, PHALP
+*Jathushan Rajasegaran, Georgios Pavlakos, Angjoo Kanazawa, Jitendra Malik*
+
+
+### 2021
+##### • TesseTrack: End-to-End Learnable Multi-Person Articulated 3D Pose Tracking - [[paper]](https://openaccess.thecvf.com/content/CVPR2021/papers/Reddy_TesseTrack_End-to-End_Learnable_Multi-Person_Articulated_3D_Pose_Tracking_CVPR_2021_paper.pdf) - CVPR 21, TesseTrack
+*N Dinesh Reddy, Laurent Guigues, Leonid Pishchulin, Jayan Eledath, Srinivasa G. Narasimhan*
 
 ***
 
