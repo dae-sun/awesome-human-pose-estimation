@@ -38,12 +38,7 @@
 ### 2022
 ##### • Tracking People by Predicting 3D Appearance, Location & Pose - [[code]](https://github.com/brjathu/PHALP) [[paper]](https://arxiv.org/pdf/2112.04477.pdf) - CVPR 22, PHALP
 *Jathushan Rajasegaran, Georgios Pavlakos, Angjoo Kanazawa, Jitendra Malik*
-<details>
-<summary>overview</summary>
-```
-![image](https://user-images.githubusercontent.com/67183356/180652665-e6295a27-73b7-49b6-92f9-3b77eea55fc8.png)
-```
-</details>
+
 ### 2021
 ##### • TesseTrack: End-to-End Learnable Multi-Person Articulated 3D Pose Tracking - [[paper]](https://openaccess.thecvf.com/content/CVPR2021/papers/Reddy_TesseTrack_End-to-End_Learnable_Multi-Person_Articulated_3D_Pose_Tracking_CVPR_2021_paper.pdf) - CVPR 21, TesseTrack
 *N Dinesh Reddy, Laurent Guigues, Leonid Pishchulin, Jayan Eledath, Srinivasa G. Narasimhan*
