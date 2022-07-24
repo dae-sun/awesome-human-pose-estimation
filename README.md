@@ -25,6 +25,7 @@
 ##### • Capturing Humans in Motion: Temporal-Attentive 3D Human Pose and Shape Estimation from Monocular Video - [[paper]](https://arxiv.org/pdf/2203.08534.pdf) - CVPR 22, MPS-Net
 *Wen-Li Wei, Jen-Chun Lin, Tyng-Luh Liu, Hong-Yuan Mark Liao*
 
+
 ### 2021
 ##### • Beyond Static Features for Temporally Consistent 3D Human Pose and Shape from a Video - [[code]](https://github.com/hongsukchoi/TCMR_RELEASE) [[paper]](https://arxiv.org/pdf/2011.08627.pdf) - CVPR 21, TCMR
 *Hongsuk Choi, Gyeongsik Moon, Ju Yong Chang, Kyoung Mu Lee*
@@ -38,7 +39,7 @@
 ##### • Tracking People by Predicting 3D Appearance, Location & Pose - [[code]](https://github.com/brjathu/PHALP) [[paper]](https://arxiv.org/pdf/2112.04477.pdf) - CVPR 22, PHALP
 *Jathushan Rajasegaran, Georgios Pavlakos, Angjoo Kanazawa, Jitendra Malik*
 
-
+![image](https://user-images.githubusercontent.com/67183356/180652665-e6295a27-73b7-49b6-92f9-3b77eea55fc8.png)
 ### 2021
 ##### • TesseTrack: End-to-End Learnable Multi-Person Articulated 3D Pose Tracking - [[paper]](https://openaccess.thecvf.com/content/CVPR2021/papers/Reddy_TesseTrack_End-to-End_Learnable_Multi-Person_Articulated_3D_Pose_Tracking_CVPR_2021_paper.pdf) - CVPR 21, TesseTrack
 *N Dinesh Reddy, Laurent Guigues, Leonid Pishchulin, Jayan Eledath, Srinivasa G. Narasimhan*
