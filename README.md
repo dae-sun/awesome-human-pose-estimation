@@ -43,8 +43,7 @@
 ##### • TesseTrack: End-to-End Learnable Multi-Person Articulated 3D Pose Tracking - [[paper]](https://openaccess.thecvf.com/content/CVPR2021/papers/Reddy_TesseTrack_End-to-End_Learnable_Multi-Person_Articulated_3D_Pose_Tracking_CVPR_2021_paper.pdf) - CVPR 21, TesseTrack
 *N Dinesh Reddy, Laurent Guigues, Leonid Pishchulin, Jayan Eledath, Srinivasa G. Narasimhan*
 
-##### • Tracking People with 3D Representations
- - [[code]](https://github.com/brjathu/T3DP) [[paper]](https://arxiv.org/pdf/2111.07868.pdf) - NeurIPS 21, HMAR
+##### • Tracking People with 3D Representations - [[code]](https://github.com/brjathu/T3DP) [[paper]](https://arxiv.org/pdf/2111.07868.pdf) - NeurIPS 21, HMAR
 *Jathushan Rajasegaran, Georgios Pavlakos, Angjoo Kanazawa, Jitendra Malik*
 ***
 
