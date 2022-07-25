@@ -143,7 +143,8 @@
 *Yuhui Yuan, Rao Fu, Lang Huang, Weihong Lin, Chao Zhang, Xilin Chen, Jingdong Wang*
 
 ***
-## Datasets (borrowed from 'Recovering 3D Human Mesh from Monocular Images: A Survey')
+## Datasets
+##### borrowed from 'Recovering 3D Human Mesh from Monocular Images: A Survey'
 ### Rendered Datasets
 | Dataset    | # Frames | # Scenes | # Subjects | # Subjects Per Frame | In-the-wild | Mesh Type | Mesh Annotation Source |
 |------------|----------|----------|------------|----------------------|-------------|-----------|------------------------|
@@ -153,6 +154,20 @@
 | THUman2.0  | -        | -        | ~200       | 1                    | -           | SMPL-X    |                        |
 | MultiHuman | -        | -        | ~50        | 1~3                  | -           | SMPL-X    |                        |
 
+### Datasets with pseudo 3D GT
+| Dataset      | # Frames | # Scenes | # Subjects | # Subjects Per Frame | In-the-wild | Mesh Type | Mesh Annotation Source |
+|--------------|----------|----------|------------|----------------------|-------------|-----------|------------------------|
+| LSP          | 2K       | -        | -          | 1                    | yes         | SMPL      |                        |
+| LSP-Extended | 10K      | -        | -          | 1                    | yes         | SMPL      |                        |
+| PennAction   | 77K      | 2,326    | 2,326      | 1                    | yes         | SMPL      |                        |
+| MSCOCO       | 38K      | -        | -          | >=1                  | yes         | SMPL      |                        |
+| MPII         | 24,920   | 3,913    | >40K       | >=1                  | yes         | SMPL      |                        |
+| UP-3D        | 8,515    | -        | -          | 1                    | yes         | SMPL      |                        |
+| PoseTrack    | 66,374   | 550      | 550        | >1                   | yes         | SMPL      |                        |
+| SSP-3D       | 311      | 62       | 62         | 1                    | yes         | SMPL      |                        |
+| OCHuman      | 4,731    | -        | 8110       | >1                   | yes         | SMPL      |                        |
+| MTP          | 3,731    | -        | 148        | 1                    | yes         | SMPL-X    |                        |
+***
 ## Experiments
 ### COCO test-dev
  - borrowed from KAPAO
