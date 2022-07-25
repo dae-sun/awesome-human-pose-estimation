@@ -154,6 +154,28 @@
 | THUman2.0  | -        | -        | ~200       | 1                    | -           | SMPL-X    |                        |
 | MultiHuman | -        | -        | ~50        | 1~3                  | -           | SMPL-X    |                        |
 
+### Marker/Sensor based MoCap
+| Dataset   | # Frames | # Scenes | # Subjects | # Subjects Per Frame | In-the-wild | Mesh Type | Mesh Annotation Source |
+|-----------|----------|----------|------------|----------------------|-------------|-----------|------------------------|
+| HumanEva  | 80K      | 1        | 4          | 1                    | -           | -         |                        |
+| Human3.6M | 3.6M     | 1        | 11         | 1                    | -           | SMPL-X    | NeuralAnnot            |
+| 3DPW      | >51K     | 60       | 7          | 1~2                  | yes         | SMPL-X    | NeuralAnnot            |
+
+### Marker-less Multi-view MoCap
+| Dataset            | # Frames | # Scenes | # Subjects | # Subjects Per Frame | In-the-wild | Mesh Type | Mesh Annotation Source |
+|--------------------|----------|----------|------------|----------------------|-------------|-----------|------------------------|
+| CMU Panoptic       | 1.5M     | 1        | 40         | 3~8                  | -           | -         |                        |
+| MPI-INF-3DHP       | >1.3M    | 1        | 8          | 1                    | yes         | SMPL-X    | NeuralAnnot            |
+| MuCo-3DHP          | 200K     | 1        | 8          | 1~4                  | -           | -         |                        |
+| MuPoTs-3D          | >8K      | 20       | 8          | 3                    | yes         | -         |                        |
+| MannequinChallenge | 24,428   | 567      | 742        | 5                    | yes         | SMPL      |                        |
+| 3DOH50K            | 51,600   | 1        | -          | 1                    | -           | SMPL      |                        |
+| Mirrored-Human     | 1.8M     | >200     | >200       | >=1                  | yes         | SMPL      |                        |
+| MTC                | 834K     | 1        | 40         | 1                    | -           | -         |                        |
+| EHF                | 100      | 1        | 1          | 1                    | -           | SMPL-X    |                        |
+| HUMBI              | 17.3M    | 1        | 772        | 1                    | -           | SMPL      |                        |
+| ZJU-MoCap          | -        | 1        | 9          | 1                    | -           | SMPL-X    |                        |
+
 ### Datasets with pseudo 3D GT
 | Dataset      | # Frames | # Scenes | # Subjects | # Subjects Per Frame | In-the-wild | Mesh Type | Mesh Annotation Source |
 |--------------|----------|----------|------------|----------------------|-------------|-----------|------------------------|
@@ -163,7 +185,7 @@
 | MSCOCO       | 38K      | -        | -          | >=1                  | yes         | SMPL      |                        |
 | MPII         | 24,920   | 3,913    | >40K       | >=1                  | yes         | SMPL      |                        |
 | UP-3D        | 8,515    | -        | -          | 1                    | yes         | SMPL      |                        |
-| PoseTrack    | 66,374   | 550      | 550        | >1                   | yes         | SMPL      |                        |
+| PoseTrack    | 66,374   | 550      | 550        | >1                   | yes         | SMPL-X    | NeuralAnnot            |
 | SSP-3D       | 311      | 62       | 62         | 1                    | yes         | SMPL      |                        |
 | OCHuman      | 4,731    | -        | 8110       | >1                   | yes         | SMPL      |                        |
 | MTP          | 3,731    | -        | 148        | 1                    | yes         | SMPL-X    |                        |
