@@ -143,8 +143,18 @@
 *Yuhui Yuan, Rao Fu, Lang Huang, Weihong Lin, Chao Zhang, Xilin Chen, Jingdong Wang*
 
 ***
+## Datasets (borrowed from 'Recovering 3D Human Mesh from Monocular Images: A Survey')
+### Rendered Datasets
+| Dataset    | # Frames | # Scenes | # Subjects | # Subjects Per Frame | In-the-wild | Mesh Type | Mesh Annotation Source |
+|------------|----------|----------|------------|----------------------|-------------|-----------|------------------------|
+| SURREAL    | 6.5M     | 2,607    | 145        | 1                    | -           | SMPL      |                        |
+| GTA-Human  | 1.4M     | -        | >600       | -                    | -           | SMPL      |                        |
+| AGORA      | 17K      | -        | >350       | 5~15                 | -           | SMPL-X    |                        |
+| THUman2.0  | -        | -        | ~200       | 1                    | -           | SMPL-X    |                        |
+| MultiHuman | -        | -        | ~50        | 1~3                  | -           | SMPL-X    |                        |
+
 ## Experiments
 ### COCO test-dev
- - borrow KAPAO
+ - borrowed from KAPAO
 
 ![ex_screenshot](./table.png)
