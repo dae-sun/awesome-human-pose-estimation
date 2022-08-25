@@ -12,6 +12,17 @@
 - [Backbone](#backbone)
 
 
+## 3D Whole-Body Mesh Recovery
+### 2022
+##### • GLAMR: Global Occlusion-Aware Human Mesh Recovery with Dynamic Cameras - [[code]](https://github.com/NVlabs/GLAMR) [[paper]](https://arxiv.org/pdf/2112.01524.pdf) - CVPR 22, GLAMR
+*Ye Yuan, Umar Iqbal, Pavlo Molchanov, Kris Kitani, Jan Kautz*
+
+##### • Capturing Humans in Motion: Temporal-Attentive 3D Human Pose and Shape Estimation from Monocular Video - [[paper]](https://arxiv.org/pdf/2203.08534.pdf) - CVPR 22, MPS-Net
+*Wen-Li Wei, Jen-Chun Lin, Tyng-Luh Liu, Hong-Yuan Mark Liao*
+
+
+
+***
 ## Single-Person 2D Pose Estimation
 ### 2022
 ##### • SimCC: a Simple Coordinate Classification Perspective for Human Pose Estimation - [[code]](https://github.com/leeyegy/SimCC) [[paper]](https://arxiv.org/pdf/2107.03332.pdf) - ECCV 22, SimCC
