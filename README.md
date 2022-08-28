@@ -13,13 +13,27 @@
 
 
 ## 3D Whole-Body Mesh Recovery
+### 2022
+
+##### • PyMAF-X: Towards Well-aligned Full-body Model Regression from Monocular Images - [[code]](https://github.com/HongwenZhang/PyMAF) [[paper]](https://arxiv.org/pdf/2207.06400.pdf) - Arxiv, PyMAF-X
+*Hongwen Zhang, Yating Tian, Yuxiang Zhang, Mengcheng Li, Liang An, Zhenan Sun, Yebin Liu*
+
+##### • Accurate 3D Hand Pose Estimation for Whole-Body 3D Human Mesh Estimation - [[code]](https://github.com/mks0601/Hand4Whole_RELEASE) [[paper]](https://arxiv.org/pdf/2011.11534.pdf) - CVPRW, Hand4Whole
+*Gyeongsik Moon, Hongsuk Choi, Kyoung Mu Lee*
+
 ### 2021
-##### • FrankMocap: Fast Monocular 3D Hand and Body Motion Capture by Regression and Integration - [[code]](https://github.com/NVlabs/GLAMR) [[paper]](https://arxiv.org/pdf/2008.08324.pdf) - ICCV workshop, FrankMocap
+##### • Collaborative Regression of Expressive Bodies using Moderation - [[code]](https://github.com/YadiraF/PIXIE) [[paper]](https://arxiv.org/pdf/2105.05301.pdf) - 3DV, PIXIE
+*Yao Feng, Vasileios Choutas, Timo Bolkart, Dimitrios Tzionas, Michael J. Black*
+
+##### • FrankMocap: Fast Monocular 3D Hand and Body Motion Capture by Regression and Integration - [[code]](https://github.com/facebookresearch/frankmocap) [[paper]](https://arxiv.org/pdf/2008.08324.pdf) - ICCV workshop, FrankMocap
 *Ye Yuan, Umar Iqbal, Pavlo Molchanov, Kris Kitani, Jan Kautz*
 
-##### • Capturing Humans in Motion: Temporal-Attentive 3D Human Pose and Shape Estimation from Monocular Video - [[paper]](https://arxiv.org/pdf/2203.08534.pdf) - CVPR 22, MPS-Net
-*Wen-Li Wei, Jen-Chun Lin, Tyng-Luh Liu, Hong-Yuan Mark Liao*
+##### • Monocular Real-time Full Body Capture with Inter-part Correlations - [[code]](https://github.com/vchoutas/expose) [[paper]](https://arxiv.org/pdf/2012.06087.pdf) - CVPR 21, Expose
+*Yuxiao Zhou, Marc Habermann, Ikhsanul Habibie, Ayush Tewari, Christian Theobalt, Feng Xu*
 
+### 2019
+##### • Monocular Expressive Body Regression through Body-Driven Attention -[[code]](https://github.com/vchoutas/smplx) [[paper]](https://arxiv.org/abs/1904.05866) - CVPR 19, SMPL-X
+*Pavlakos, Georgios and Choutas, Vasileios and Ghorbani, Nima and Bolkart, Timo and Osman, Ahmed A. A. and Tzionas, Dimitrios and Black, Michael J.*
 
 
 ***
