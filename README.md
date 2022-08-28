@@ -31,6 +31,11 @@
 ##### • Monocular Real-time Full Body Capture with Inter-part Correlations - [[code]](https://github.com/vchoutas/expose) [[paper]](https://arxiv.org/pdf/2012.06087.pdf) - CVPR 21, Expose
 *Yuxiao Zhou, Marc Habermann, Ikhsanul Habibie, Ayush Tewari, Christian Theobalt, Feng Xu*
 
+### 2020
+##### • Whole-Body Human Pose Estimation in the Wild - [[code]](https://github.com/jin-s13/COCO-WholeBody) [[paper]](https://arxiv.org/pdf/2007.11858.pdf) - ECCV, COCO-WholeBody, (only Keypoint)
+*Jin, Sheng and Xu, Lumin and Xu, Jin and Wang, Can and Liu, Wentao and Qian, Chen and Ouyang, Wanli and Luo, Ping*
+
+
 ### 2019
 ##### • Monocular Expressive Body Regression through Body-Driven Attention -[[code]](https://github.com/vchoutas/smplx) [[paper]](https://arxiv.org/abs/1904.05866) - CVPR 19, SMPL-X
 *Pavlakos, Georgios and Choutas, Vasileios and Ghorbani, Nima and Bolkart, Timo and Osman, Ahmed A. A. and Tzionas, Dimitrios and Black, Michael J.*
