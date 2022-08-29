@@ -38,6 +38,11 @@
 ##### • Monocular Expressive Body Regression through Body-Driven Attention - [[code]](https://github.com/vchoutas/expose) [[paper]](https://arxiv.org/pdf/2008.09062.pdf) - ECCV, Expose
 *Vasileios Choutas, Georgios Pavlakos, Timo Bolkart, Dimitrios Tzionas, Michael J. Black*
 
+##### • DOPE: Distillation Of Part Experts for whole-body 3D pose estimation in the wild - [[code]](https://github.com/naver/dope) [[paper]](https://arxiv.org/pdf/2008.09457.pdf) - ECCV, DOPE, (only Keypoint)
+*Philippe Weinzaepfel, Romain Brégier, Hadrien Combaluzier, Vincent Leroy, Grégory Rogez*
+
+
+
 
 ### 2019
 ##### • Expressive Body Capture: 3D Hands, Face, and Body from a Single Image -[[code]](https://github.com/vchoutas/smplx) [[paper]](https://arxiv.org/abs/1904.05866) - CVPR 19, SMPL-X
