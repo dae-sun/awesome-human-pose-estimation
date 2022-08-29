@@ -40,7 +40,7 @@
 
 
 ### 2019
-##### • Monocular Expressive Body Regression through Body-Driven Attention -[[code]](https://github.com/vchoutas/smplx) [[paper]](https://arxiv.org/abs/1904.05866) - CVPR 19, SMPL-X
+##### • Expressive Body Capture: 3D Hands, Face, and Body from a Single Image -[[code]](https://github.com/vchoutas/smplx) [[paper]](https://arxiv.org/abs/1904.05866) - CVPR 19, SMPL-X
 *Pavlakos, Georgios and Choutas, Vasileios and Ghorbani, Nima and Bolkart, Timo and Osman, Ahmed A. A. and Tzionas, Dimitrios and Black, Michael J.*
 
 
