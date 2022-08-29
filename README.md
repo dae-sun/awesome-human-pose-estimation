@@ -28,12 +28,15 @@
 ##### • FrankMocap: Fast Monocular 3D Hand and Body Motion Capture by Regression and Integration - [[code]](https://github.com/facebookresearch/frankmocap) [[paper]](https://arxiv.org/pdf/2008.08324.pdf) - ICCV workshop, FrankMocap
 *Ye Yuan, Umar Iqbal, Pavlo Molchanov, Kris Kitani, Jan Kautz*
 
-##### • Monocular Real-time Full Body Capture with Inter-part Correlations - [[code]](https://github.com/vchoutas/expose) [[paper]](https://arxiv.org/pdf/2012.06087.pdf) - CVPR 21, Expose
+##### • Monocular Real-time Full Body Capture with Inter-part Correlations - [[paper]](https://arxiv.org/pdf/2012.06087.pdf) - CVPR 21, Zhou et al
 *Yuxiao Zhou, Marc Habermann, Ikhsanul Habibie, Ayush Tewari, Christian Theobalt, Feng Xu*
 
 ### 2020
 ##### • Whole-Body Human Pose Estimation in the Wild - [[code]](https://github.com/jin-s13/COCO-WholeBody) [[paper]](https://arxiv.org/pdf/2007.11858.pdf) - ECCV, COCO-WholeBody, (only Keypoint)
 *Jin, Sheng and Xu, Lumin and Xu, Jin and Wang, Can and Liu, Wentao and Qian, Chen and Ouyang, Wanli and Luo, Ping*
+
+##### • Monocular Expressive Body Regression through Body-Driven Attention - [[code]](https://github.com/vchoutas/expose) [[paper]](https://arxiv.org/pdf/2008.09062.pdf) - ECCV, Expose
+*Vasileios Choutas, Georgios Pavlakos, Timo Bolkart, Dimitrios Tzionas, Michael J. Black*
 
 
 ### 2019
